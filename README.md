@@ -12,7 +12,7 @@ Instructions:
 - Setup your tag categories in settings
 - Generate new wallets or import existing ones
 
-Currently, this app is in Alpha state and is looking super-ugly yet until enough feedback is given in Discord () and the needed functions are all completed.
+Currently, this app is in Alpha state and is looking super-ugly yet until enough feedback is given in Discord ( https://discord.gg/tVuy5N2aGk ) and the needed functions are all completed.
 
 Backup of your data:
 - copy file "mctools_walletdata" to a secured location.
